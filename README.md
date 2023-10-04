@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![IMAGE](https://user-images.githubusercontent.com/118541861/241975130-6e3e3da3-5e9e-4e3a-bdbd-1ef225bcf47c.png)
 
-### Name:
-### Register Number:
+### Name:V.A.JITHENDRA
+### Register Number:2122221230043
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
